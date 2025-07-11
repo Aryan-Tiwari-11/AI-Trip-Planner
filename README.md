@@ -1,6 +1,6 @@
 <p>
 Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/landing.png" alt="">
+<img src="https://github.com/Aryan-Tiwari-11/AI-Trip-Planner/blob/main/public/landing.png" alt="">
 </p>
                   
 <h1 align="center" style="font-weight: bold;">AI Trip Planner</h1>
